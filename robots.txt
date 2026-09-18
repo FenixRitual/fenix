@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /data/
 # После подключения домена добавьте: Sitemap: https://ВАШ-ДОМЕН.ru/sitemap.xml
+Sitemap: https://fenixritual.github.io/sitemap.xml
